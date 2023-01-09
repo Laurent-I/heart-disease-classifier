@@ -1,2 +1,2 @@
 # heart-disease-classifier
-Predicts the probability of have a Heart Attack
+Predicts the probability of having a heart attack
